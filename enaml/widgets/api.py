@@ -54,6 +54,8 @@ from .stack import Stack, Transition
 from .stack_item import StackItem
 from .status_bar import StatusBar
 from .status_item import StatusItem
+from .table_view import TableView
+#from .text_editor import TextEditor
 from .time_selector import TimeSelector
 from .timer import Timer
 from .tool_bar import ToolBar
